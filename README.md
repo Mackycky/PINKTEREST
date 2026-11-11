@@ -4,7 +4,7 @@
 
 PINKterest es una pequeña galería de imágenes inspirada en Pinterest, pero con una temática muy particular: ¡todo es rosa! 🌸
 
-Este proyecto consiste en una colección de imágenes organizadas en una galería visual, buscando recrear un poco el estilo y la estética de Pinterest.
+Este proyecto consiste en una colección de imágenes organizadas en una galería visual, buscando recrear un poco el estilo y la estética de Pinterest. (+200 imagenes)
 
 ### ✨ Sobre el proyecto
 
