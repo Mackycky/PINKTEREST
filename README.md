@@ -2,11 +2,17 @@
 
 ¡Bienvenidos a PINKterest! 💗
 
-PINKterest es una pequeña galería de imágenes inspirada en Pinterest, pero con una temática muy particular: ¡todo es rosa! 🌸
+PINKterest es una galería de imágenes inspirada en Pinterest, pero con una temática muy particular: ¡todo es rosa! 🌸
 
-Este proyecto consiste en una colección de imágenes organizadas en una galería visual, buscando recrear un poco el estilo y la estética de Pinterest. (+200 imagenes)
+El proyecto cuenta con más de **200 imágenes** de diferentes estilos y tonalidades de rosa, recopiladas de Pinterest para formar una galería visual.
 
-### ✨ Sobre el proyecto
+### ✨ Tecnologías utilizadas
+
+- HTML
+- CSS
+- JavaScript
+
+### 🌷 Sobre el proyecto
 
 Este es un proyecto personal que realicé como parte de mi proceso de aprendizaje en programación. Todavía estoy aprendiendo y practicando, por lo que me apoyo en tutoriales y videos para incorporar nuevos conocimientos y llevarlos a la práctica.
 
